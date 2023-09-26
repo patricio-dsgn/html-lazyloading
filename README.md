@@ -1,1 +1,1 @@
-- [demo online](https://patricio-dsgn.github.io/js-lazyloading/)
+- [demo online](https://patricio-dsgn.github.io/html-lazyloading/)
