@@ -1,1 +1,1 @@
-- [demo online](https://patricio-dsgn.github.io/js-dalecolor/)
+- [demo online](https://patricio-dsgn.github.io/js-lazyloading/)
